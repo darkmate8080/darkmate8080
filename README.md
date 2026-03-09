@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkmate8080" alt="darkmate8080" /></a> </p>
 
-- 🌱 I’m currently learning AI and some programing languages **w3school, youtube etc**
+- 🌱 I’m currently learning AI and some programing languages in **w3school, youtube etc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
