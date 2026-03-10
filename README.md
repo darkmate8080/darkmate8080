@@ -1,5 +1,6 @@
 <div align="center">
-  <img width="1584" height="396" alt="Green and Black Modern Software Developer LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/e14b79b3-4a56-4159-a8b5-625293ae23b0" />
+  <img width="1584" height="396" alt="Green and Black Modern Software Developer LinkedIn Banner" src="https://github.com/user-attachments/assets/1f3623f7-1930-4b16-a245-ede26fdada58" />
+
   <br>
   <img alt="Static Badge" src="https://img.shields.io/badge/any_text-you_like-blue">
   </a>
