@@ -1,12 +1,13 @@
+<img src="https://img.freepik.com/free-vector/artificial-intelligence-concept-twitter-header_23-2150395161.jpg?semt=ais_hybrid&w=740&q=80" weight="100%" height="40%"></img>
 # Hi 👋 I'm Samiul Haque (darkmate8080)
 
-### 💻 **Web Developer | 🤖 AI Enthusiast | 🧠 Deep Learning Explorer**
+> [!IMPORTANT]
+> ### 💻 Web Developer | 🤖 AI Enthusiast | 🧠 Deep Learning Explorer
 
-I am a passionate developer who loves exploring the world of Artificial Intelligence, Deep Learning, and advanced computing systems. My main goal is to deeply understand how intelligence works and build powerful AI systems from scratch. I enjoy experimenting with neural networks, language models, and autonomous AI agents using Python.
+<p font-size="12">I am a passionate developer who loves exploring the world of Artificial Intelligence, Deep Learning, and advanced computing systems. My main goal is to deeply understand how intelligence works and build powerful AI systems from scratch. I enjoy experimenting with neural networks, language models, and autonomous AI agents using Python.
 
-Alongside AI research, I also work with web technologies and software development. I like combining practical software engineering with cutting-edge AI research to create intelligent applications. I am always curious about learning new technologies and constantly working on innovative projects.
+Alongside AI research, I also work with web technologies and software development. I like combining practical software engineering with cutting-edge AI research to create intelligent applications. I am always curious about learning new technologies and constantly working on innovative projects.</p>
 
----
 
 ## 🚀 About Me
 
@@ -16,13 +17,13 @@ Alongside AI research, I also work with web technologies and software developmen
 * 🌐 Experienced in **Web Development**
 * 📚 Always learning **advanced AI architectures and research concepts**
 
----
+
 
 ## 💻 Developer Bio
 
 Dark Mate is a developer passionate about Artificial Intelligence and modern software engineering. He focuses on building intelligent systems, experimenting with neural networks, and exploring how large-scale AI models work internally. His long-term vision is to develop advanced autonomous AI systems and contribute to the future of intelligent technologies. Alongside AI research, he enjoys creating practical software solutions and continuously learning new tools, frameworks, and programming techniques.
 
----
+
 
 ## 🛠️ Technologies & Tools
 
@@ -36,7 +37,7 @@ Dark Mate is a developer passionate about Artificial Intelligence and modern sof
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
----
+
 
 ## 🌱 Current Focus
 
@@ -45,7 +46,7 @@ Dark Mate is a developer passionate about Artificial Intelligence and modern sof
 * Exploring **Large Language Models**
 * Developing **autonomous AI systems**
 
----
+
 
 ⭐ *Always learning, always building, always exploring the future of AI.*
 
@@ -59,11 +60,11 @@ Dark Mate is a developer passionate about Artificial Intelligence and modern sof
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkmate8080&show_icons=true&locale=en&layout=compact" alt="darkmate8080" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkmate8080&show_icons=true&locale=en&layout=compact" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darkmate8080&show_icons=true&locale=en" alt="darkmate8080" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darkmate8080&show_icons=true&locale=en" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkmate8080&" alt="darkmate8080" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkmate8080&" /></p>
 <!---
 darkmate8080/darkmate8080 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
