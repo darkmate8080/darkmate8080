@@ -1,30 +1,66 @@
-<h1 align="center">Hi 👋, I'm samiul Haque</h1>
-<h3 align="center">A passionate AI engineer or full stuck web developer from Bangladesh</h3>
+# Hi 👋 I'm Samiul Haque (darkmate8080)
+
+💻 **Web Developer | 🤖 AI Enthusiast | 🧠 Deep Learning Explorer**
+
+I am a passionate developer who loves exploring the world of Artificial Intelligence, Deep Learning, and advanced computing systems. My main goal is to deeply understand how intelligence works and build powerful AI systems from scratch. I enjoy experimenting with neural networks, language models, and autonomous AI agents using Python.
+
+Alongside AI research, I also work with web technologies and software development. I like combining practical software engineering with cutting-edge AI research to create intelligent applications. I am always curious about learning new technologies and constantly working on innovative projects.
+
+---
+
+## 🚀 About Me
+
+* 🔭 Currently learning **Deep Learning & Large Language Models (LLMs)**
+* 🧠 Interested in **AGI, Autonomous AI Agents, and Neural Networks**
+* 🐍 Love building AI systems using **Python**
+* 🌐 Experienced in **Web Development**
+* 📚 Always learning **advanced AI architectures and research concepts**
+
+---
+
+## 💻 Developer Bio
+
+Dark Mate is a developer passionate about Artificial Intelligence and modern software engineering. He focuses on building intelligent systems, experimenting with neural networks, and exploring how large-scale AI models work internally. His long-term vision is to develop advanced autonomous AI systems and contribute to the future of intelligent technologies. Alongside AI research, he enjoys creating practical software solutions and continuously learning new tools, frameworks, and programming techniques.
+
+---
+
+## 🛠️ Technologies & Tools
+
+* Python
+* Machine Learning
+* Deep Learning
+* Neural Networks
+* Web Development
+* Git & GitHub
+
+---
+
+## 🌱 Current Focus
+
+* Building **AI models from scratch**
+* Studying **Deep Learning mathematics**
+* Exploring **Large Language Models**
+* Developing **autonomous AI systems**
+
+---
+
+⭐ *Always learning, always building, always exploring the future of AI.*
+
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkmate8080&label=Profile%20views&color=0e75b6&style=flat" alt="darkmate8080" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkmate8080" alt="darkmate8080" /></a> </p>
 
-- 🌱 I’m currently learning AI and some programing languages in **w3school, youtube etc**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/samiul haque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samiul haque" height="30" width="40" /></a>
-<a href="https://instagram.com/darkmate8080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darkmate8080" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/1290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="1290" height="30" width="40" /></a>
-<a href="https://discord.gg/darkmate8080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="darkmate8080" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkmate8080&show_icons=true&locale=en&layout=compact" alt="darkmate8080" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darkmate8080&show_icons=true&locale=en" alt="darkmate8080" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkmate8080&" alt="darkmate8080" /></p>
-
-
 <!---
 darkmate8080/darkmate8080 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
