@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.freepik.com/free-vector/artificial-intelligence-concept-twitter-header_23-2150395161.jpg?semt=ais_hybrid&w=740&q=80" weight="100%" height="40%"></img>
+  <img width="1584" height="396" alt="Green and Black Modern Software Developer LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/e14b79b3-4a56-4159-a8b5-625293ae23b0" />
   <br>
   <img alt="Static Badge" src="https://img.shields.io/badge/any_text-you_like-blue">
   </a>
