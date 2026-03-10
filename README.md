@@ -1,13 +1,6 @@
-<img src="https://img.freepik.com/free-vector/artificial-intelligence-concept-twitter-header_23-2150395161.jpg?semt=ais_hybrid&w=740&q=80" weight="100%" height="40%"></img>
-# Hi 👋 I'm Samiul Haque (darkmate8080)
-
 <div align="center">
-  <a href="https://github.com/darkmate8080/darkmate8080/actions">
-    <img src="https://github.com/darkmate8080/darkmate8080/workflows/Build/badge.svg" alt="build status" />
-  </a>
-  <a href="https://goreportcard.com/report/github.com/darkmate8080/darkmate8080/v2">
-    <img src="https://goreportcard.com/badge/github.com/darkmate8080/darkmate8080/v2" alt="go report" />
-  </a>
+  <img src="https://img.freepik.com/free-vector/artificial-intelligence-concept-twitter-header_23-2150395161.jpg?semt=ais_hybrid&w=740&q=80" weight="100%" height="40%"></img>
+
   <a href="https://codeclimate.com/github/darkmate8080/darkmate8080/maintainability">
     <img src="https://api.codeclimate.com/v1/badges/3259feb1c68df1cd4f71/maintainability"  alt="code climate badge"/>
   </a>
@@ -17,10 +10,9 @@
   <a href="https://github.com/darkmate8080/darkmate8080/releases">
     <img src="https://img.shields.io/github/release/darkmate8080/darkmate8080.svg" alt="Latest version" />
   </a>
-  <a href="https://hub.docker.com/r/darkmate8080/darkmate8080">
-    <img src="https://img.shields.io/docker/pulls/darkmate8080/darkmate8080.svg" alt="Docker pulls" />
-  </a>
 </div>
+
+# Hi 👋 I'm Samiul Haque (darkmate8080)
 
 > [!IMPORTANT]
 > ### 💻 Web Developer | 🤖 AI Enthusiast | 🧠 Deep Learning Explorer
